@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\lunat\\OneDrive\\Documents\\Unreal Projects\\hello\\Source\\hello\\hello.Build.cs",
+		"C:\\Users\\lunat\\OneDrive\\Documents\\Unreal Projects\\hello\\Source\\hello.Target.cs",
+		"C:\\Users\\lunat\\OneDrive\\Documents\\Unreal Projects\\hello\\Source\\helloEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
